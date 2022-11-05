@@ -4,7 +4,7 @@ I'm Érik.
 I like technology, animals, games, series, love music and a cup of coffee can not miss.
 
 - 📚 I’m currently studyng!
-- 🌱 I’m currently learning about NextJs, TypeScript, React Native,Git/Github, Figma.
+- 🌱 I’m currently learning about NextJs, TypeScript, React Native, Git/Github, Figma.
 
 #### skills
 - React, Nextjs, JavaScript, TypeScript, APIRest, HTML, CSS/SASS, Figma, Git, Linux.
