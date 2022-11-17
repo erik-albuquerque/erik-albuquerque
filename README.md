@@ -12,8 +12,8 @@
 
   #### Stats
   - ⭐ Stars: 30    
-  - :sparkles: Commits (2022): 194    
-  - 🧵 PRs: 5    
+  - :sparkles: Commits (2022): 208    
+  - 🧵 PRs: 7    
   - 🚩 Issues: 3    
 
   you can find me here:  
