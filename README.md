@@ -10,12 +10,6 @@
   #### skills
   - React, Nextjs, JavaScript, TypeScript, APIRest, HTML, CSS/SASS, Figma, Git & Github, Linux.
 
-  #### Stats
-  - ⭐ Stars: 30    
-  - :sparkles: Commits (2022): 228    
-  - 🧵 PRs: 7    
-  - 🚩 Issues: 3    
-
   you can find me here:  
 
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-albuquerque/)](https://www.linkedin.com/in/erik-albuquerque/)
