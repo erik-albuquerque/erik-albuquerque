@@ -7,7 +7,7 @@
   - 🌱 I’m currently learning about NextJs, TypeScript, React Native, Git/Github, Figma and English.
 
   #### skills
-  - React, Nextjs, JavaScript, TypeScript, APIRest, HTML, CSS/SASS, Figma, Git & Github, Linux.
+  - Reactjs, Nextjs, JavaScript, TypeScript, APIRest, Nodejs, HTML, CSS/SASS, Figma, Git & Github, Linux.
 
   you can find me here:  
 
